@@ -1,9 +1,20 @@
-# SQL Advent Calendar 2024
+# SQL Advent Calendar 2025 🎄📊
 
-This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
+This repository contains my solutions for the **SQL Advent Calendar 2025** challenge by **Interview Master**.
 
-## About the Challenge
+## 📌 About the Challenge
+- Duration: 24 Days
+- Difficulty: Easy → Medium → Hard
+- Focus: SQL fundamentals, analytical thinking, and interview-oriented problem solving
 
-The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
+## 🧠 What I Practiced
+- SELECT queries & filtering
+- Aggregations (SUM, AVG, COUNT)
+- JOINs (INNER, LEFT)
+- Subqueries & CTEs
+- Real-world business logic using SQL
+- Writing clean and readable SQL queries
 
-Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
+## 📂 Repository Structure
+Each file represents the solution for a specific day:
+
